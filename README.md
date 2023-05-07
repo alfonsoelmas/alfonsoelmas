@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfonsoelmas
-- 👀 I’m interested in SW DEVELOPMENT
-- 🌱 I’m currently learning NET 5, Api Restfull, Vue, PowerBuilder 2021, 
+- 👀 I’m interested in Software Architecture and Tech. Lead
+- 🌱 I’m currently focus on NET 6, Api Restfull, Cloud, IOS Development, Vue, PowerBuilder 2021...
 - 📫 How to reach me ... Discover It, is very EZ
 
 <!---
